@@ -20,3 +20,11 @@
 section:nth-child(5) *{
     display: inline;
 }
+
+section:nth-child(6) .red{
+    float: right;
+
+}
+section:nth-child(6) .green{
+    float: left;
+}
