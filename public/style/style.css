@@ -16,3 +16,7 @@
     display: flex;
 
 }
+
+section:nth-child(5) *{
+    display: inline;
+}
