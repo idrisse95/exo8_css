@@ -1,4 +1,10 @@
 #un span{
     background-color: black;
     color: white;
+    height: 100px;
+    width: 300px;
+}
+
+ ul>li:nth-child(even){
+    color: white;
 }
